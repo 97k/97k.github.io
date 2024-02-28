@@ -5,7 +5,6 @@ date: 2023-07-14
 draft: false
 slug: /cv/eye
 tags:
-  - eye-detection
   - python
   - opencv
 ---
