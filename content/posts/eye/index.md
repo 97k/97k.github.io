@@ -3,7 +3,7 @@ title: Insights Through Vision-Tracking Eyes Using OpenCV for Blink Detection
 description: Case Study and effecient solution on blink detection
 date: 2023-07-14
 draft: false
-slug: /cv/eye-detection
+slug: /cv/eye
 tags:
   - eye-detection
   - python
