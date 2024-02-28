@@ -1,6 +1,6 @@
 ---
 date: '2022-10-11'
-title: 'TaskHuman Semantic Search'
+title: 'Semantic Search Engine'
 github: ''
 external: ''
 ios: 'https://apps.apple.com/us/app/taskhuman-1-1-video-coaching/id1406593844'

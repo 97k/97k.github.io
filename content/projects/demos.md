@@ -1,8 +1,8 @@
 ---
 date: '2023-11-25'
-title: 'DS Dashboards'
+title: 'DataScience Dashboards'
 github: ''
-external: 'https://aidemos.taskhuman.com/'
+external: ''
 tech:
   - plotly
   - Dash
